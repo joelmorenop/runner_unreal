@@ -3,7 +3,7 @@
 Developed with Unreal Engine 5
 
 Risketos Bàsics: 		
--Controls simples, jd sigui clicar o un o dos botons.
+-Controls simples, ja sigui clicar o un o dos botons.
 -Moviment per físicas i amb collisions.
 -Creació d’objectes amb un spawner (Relacionat amb el 1r Risketo Opcional)
 -Aleatorietat a qualsevol lloc del joc
